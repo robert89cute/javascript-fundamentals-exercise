@@ -1,0 +1,33 @@
+#circle {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+#date-time {
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 24px;
+    line-height: 2;
+    text-align: center;
+}
+
+#date-time span.month-date {
+    font-size: 38px;
+    
+}
+
+#date-time span.time {
+    font-size: 48px;
+}
+
+#date-time span.day-of-week {
+    font-size: 38px;
+
+}
+
+
